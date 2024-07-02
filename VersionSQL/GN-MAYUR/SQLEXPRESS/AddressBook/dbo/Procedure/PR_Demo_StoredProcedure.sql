@@ -2,4 +2,4 @@
 
 CREATE PROCEDURE [dbo].[PR_Demo_StoredProcedure]
 AS
-SELECT GETDATE()
+SELECT GETDATE() AS Mayur
